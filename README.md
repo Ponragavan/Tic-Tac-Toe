@@ -31,16 +31,22 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ponragavan/Tic-Tac_Toe.git
+git clone https://github.com/Ponragavan/Tic-Tac-Toe.git
 ```
 
-2. Install dependencies:
+2. Goto the project directory:
+
+```bash
+cd Tic-Tac-Toe
+```
+
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3.Start the app:
+4.Start the app:
 
 ```bash
 npm run dev
